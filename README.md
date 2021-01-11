@@ -12,4 +12,4 @@ EN -
 
 WARNING: To be able to consult the content of this project, select the master branch rather than the main branch.
 
-I made a small weather app in English (and responsive! 🤓). As soon as you enter the city of your choice, and hit "Enter", the city instantly appears as well as the date, temperature, weather and finally the minimum / maximum.
+I made a small weather app in English (and responsive! 🤓 ). As soon as you enter the city of your choice, and hit "Enter", the city instantly appears as well as the date, temperature, weather and finally the minimum / maximum.
