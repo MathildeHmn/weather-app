@@ -1,3 +1,4 @@
+// Constants
 const api = {
     key: "b4723c664dd3d2f3e70b0f07fc7c361d",
     base: "https://api.openweathermap.org/data/2.5/"
@@ -6,6 +7,7 @@ const api = {
 const searchBox = document.querySelector('.search-box');
 searchBox.addEventListener('keypress', setQuery);
 
+// Functions
 function setQuery(evt) {
     if(evt.keyCode == 13) {
         getResults(searchBox.value);
